@@ -165,9 +165,9 @@ paths:
           }
         application/xml: |-
           <?xml version="1.0" encoding="UTF-8"?>
-          <root>
+          <Character>
             <name>Knox Thunderbane II</name>
-          </root>
+          </Character>
       responses:
         204:
           description: Character updated
